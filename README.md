@@ -35,12 +35,6 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 Using [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/RobertBrunhage/water_reminder_app_youtube/tags). 
 
-## Authors
-
-* **Robert Brunhage** - *Initial work* - [RobertBrunhage](https://github.com/RobertBrunhage)
-
-See also the list of [contributors](https://github.com/RobertBrunhage/water_reminder_app_youtube/graphs/contributors) who participated in this project.
-
 
 ## Acknowledgments
 
